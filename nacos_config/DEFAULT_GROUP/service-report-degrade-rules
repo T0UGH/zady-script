@@ -1,0 +1,9 @@
+
+[
+  {
+    "resource": "GET:http://service-user/user/echo/{content}",
+    "count": 10,
+    "grade": 0,
+    "timeWindow": 10
+  }
+]
